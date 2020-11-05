@@ -1,0 +1,3 @@
+[1029/212550.545:ERROR:crash_report_database_win.cc(587)] GetFileAttributes C:\Users\rki6476\AppData\Local\Temp\scoped_dir9172_1545667621\Crashpad: The system cannot find the file specified. (0x2)
+[1102/215416.211:ERROR:crash_report_database_win.cc(587)] GetFileAttributes C:\Users\rki6476\AppData\Local\Temp\scoped_dir17232_1194297132\Crashpad: The system cannot find the file specified. (0x2)
+[1102/215938.223:ERROR:crash_report_database_win.cc(587)] GetFileAttributes C:\Users\rki6476\AppData\Local\Temp\scoped_dir15800_723987500\Crashpad: The system cannot find the file specified. (0x2)
